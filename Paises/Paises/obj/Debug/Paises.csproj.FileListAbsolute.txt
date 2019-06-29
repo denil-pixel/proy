@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Paises\Paises\bin\Paises.dll.config
+c:\users\user\documents\visual studio 2013\Projects\Paises\Paises\bin\Paises.dll
+c:\users\user\documents\visual studio 2013\Projects\Paises\Paises\bin\Paises.pdb
+c:\users\user\documents\visual studio 2013\Projects\Paises\Paises\obj\Debug\Paises.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Paises\Paises\obj\Debug\Paises.dll
+c:\users\user\documents\visual studio 2013\Projects\Paises\Paises\obj\Debug\Paises.pdb

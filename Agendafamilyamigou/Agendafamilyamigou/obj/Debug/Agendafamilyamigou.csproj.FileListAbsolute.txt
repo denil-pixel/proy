@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\Agendafamilyamigou\Agendafamilyamigou\bin\Debug\Agendafamilyamigou.exe
+c:\users\user\documents\visual studio 2013\Projects\Agendafamilyamigou\Agendafamilyamigou\bin\Debug\Agendafamilyamigou.pdb
+c:\users\user\documents\visual studio 2013\Projects\Agendafamilyamigou\Agendafamilyamigou\obj\Debug\Agendafamilyamigou.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Agendafamilyamigou\Agendafamilyamigou\obj\Debug\Agendafamilyamigou.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Agendafamilyamigou\Agendafamilyamigou\obj\Debug\Agendafamilyamigou.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Agendafamilyamigou\Agendafamilyamigou\obj\Debug\Agendafamilyamigou.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Agendafamilyamigou\Agendafamilyamigou\obj\Debug\Agendafamilyamigou.exe
+c:\users\user\documents\visual studio 2013\Projects\Agendafamilyamigou\Agendafamilyamigou\obj\Debug\Agendafamilyamigou.pdb
+c:\users\user\documents\visual studio 2013\Projects\Agendafamilyamigou\Agendafamilyamigou\obj\Debug\Agendafamilyamigou.Form2.resources

@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\agenda\agenda\obj\Debug\agenda.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\agenda\agenda\obj\Debug\agenda.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\agenda\agenda\obj\Debug\agenda.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\agenda\agenda\obj\Debug\agenda.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\agenda\agenda\bin\Debug\agenda.exe
+c:\users\user\documents\visual studio 2013\Projects\agenda\agenda\bin\Debug\agenda.pdb
+c:\users\user\documents\visual studio 2013\Projects\agenda\agenda\obj\Debug\agenda.exe
+c:\users\user\documents\visual studio 2013\Projects\agenda\agenda\obj\Debug\agenda.pdb
+c:\users\user\documents\visual studio 2013\Projects\agenda\agenda\obj\Debug\agenda.frminfo.resources

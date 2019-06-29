@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2013\Projects\repaso pregunta 1\repaso pregunta 1\obj\Debug\repaso pregunta 1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\repaso pregunta 1\repaso pregunta 1\obj\Debug\repaso_pregunta_1.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\repaso pregunta 1\repaso pregunta 1\obj\Debug\repaso_pregunta_1.frmtraje.resources
+c:\users\user\documents\visual studio 2013\Projects\repaso pregunta 1\repaso pregunta 1\obj\Debug\repaso_pregunta_1.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\repaso pregunta 1\repaso pregunta 1\obj\Debug\repaso pregunta 1.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\repaso pregunta 1\repaso pregunta 1\bin\Debug\repaso pregunta 1.exe
+c:\users\user\documents\visual studio 2013\Projects\repaso pregunta 1\repaso pregunta 1\bin\Debug\repaso pregunta 1.pdb
+c:\users\user\documents\visual studio 2013\Projects\repaso pregunta 1\repaso pregunta 1\obj\Debug\repaso pregunta 1.exe
+c:\users\user\documents\visual studio 2013\Projects\repaso pregunta 1\repaso pregunta 1\obj\Debug\repaso pregunta 1.pdb
+c:\users\user\documents\visual studio 2013\Projects\repaso pregunta 1\repaso pregunta 1\obj\Debug\repaso_pregunta_1.informacion.resources

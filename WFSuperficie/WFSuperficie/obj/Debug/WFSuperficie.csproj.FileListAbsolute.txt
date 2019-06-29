@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\WFSuperficie\WFSuperficie\bin\Debug\WFSuperficie.exe.config
+c:\users\user\documents\visual studio 2013\Projects\WFSuperficie\WFSuperficie\bin\Debug\WFSuperficie.exe
+c:\users\user\documents\visual studio 2013\Projects\WFSuperficie\WFSuperficie\bin\Debug\WFSuperficie.pdb
+c:\users\user\documents\visual studio 2013\Projects\WFSuperficie\WFSuperficie\obj\Debug\WFSuperficie.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\WFSuperficie\WFSuperficie\obj\Debug\WFSuperficie.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\WFSuperficie\WFSuperficie\obj\Debug\WFSuperficie.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\WFSuperficie\WFSuperficie\obj\Debug\WFSuperficie.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\WFSuperficie\WFSuperficie\obj\Debug\WFSuperficie.exe
+c:\users\user\documents\visual studio 2013\Projects\WFSuperficie\WFSuperficie\obj\Debug\WFSuperficie.pdb

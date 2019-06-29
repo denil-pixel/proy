@@ -1,0 +1,14 @@
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Pre\bin\Debug\C_Pre.dll
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Pre\bin\Debug\C_Pre.pdb
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Pre\bin\Debug\C_Neg.dll
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Pre\bin\Debug\C_Neg.pdb
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Pre\obj\Debug\C_Pre.csprojResolveAssemblyReference.cache
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Pre\obj\Debug\C_Pre.dll
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Pre\obj\Debug\C_Pre.pdb
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Pre\obj\Debug\C_Pre.Formulario_categoria_pr.resources
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Pre\obj\Debug\C_Pre.csproj.GenerateResource.Cache
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Pre\bin\Debug\C_Dat.dll
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Pre\bin\Debug\C_Dat.pdb
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Pre\obj\Debug\C_Pre.frmrPresentacion.resources
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Pre\obj\Debug\C_Pre.frmCliente.resources
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Pre\obj\Debug\C_Pre.frmTrabajador.resources

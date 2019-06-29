@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\insert,edit\insert,edit\obj\Debug\insert_edit.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\insert,edit\insert,edit\obj\Debug\insert,edit.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\insert,edit\insert,edit\bin\Debug\insert,edit.exe
+c:\users\user\documents\visual studio 2013\Projects\insert,edit\insert,edit\bin\Debug\insert,edit.pdb
+c:\users\user\documents\visual studio 2013\Projects\insert,edit\insert,edit\obj\Debug\insert,edit.exe
+c:\users\user\documents\visual studio 2013\Projects\insert,edit\insert,edit\obj\Debug\insert,edit.pdb

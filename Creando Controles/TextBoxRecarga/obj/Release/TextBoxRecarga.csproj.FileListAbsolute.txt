@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Creando Controles\TextBoxRecarga\bin\Release\TextBoxRecarga.dll
+c:\users\user\documents\visual studio 2013\Projects\Creando Controles\TextBoxRecarga\bin\Release\TextBoxRecarga.pdb
+c:\users\user\documents\visual studio 2013\Projects\Creando Controles\TextBoxRecarga\obj\Release\Creando_Controles.TexBboxValida.resources
+c:\users\user\documents\visual studio 2013\Projects\Creando Controles\TextBoxRecarga\obj\Release\TextBoxRecarga.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Creando Controles\TextBoxRecarga\obj\Release\TextBoxRecarga.dll
+c:\users\user\documents\visual studio 2013\Projects\Creando Controles\TextBoxRecarga\obj\Release\TextBoxRecarga.pdb

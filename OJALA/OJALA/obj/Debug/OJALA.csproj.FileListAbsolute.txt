@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\OJALA\OJALA\bin\OJALA.dll.config
+c:\users\user\documents\visual studio 2013\Projects\OJALA\OJALA\bin\OJALA.dll
+c:\users\user\documents\visual studio 2013\Projects\OJALA\OJALA\bin\OJALA.pdb
+c:\users\user\documents\visual studio 2013\Projects\OJALA\OJALA\obj\Debug\OJALA.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\OJALA\OJALA\obj\Debug\OJALA.dll
+c:\users\user\documents\visual studio 2013\Projects\OJALA\OJALA\obj\Debug\OJALA.pdb

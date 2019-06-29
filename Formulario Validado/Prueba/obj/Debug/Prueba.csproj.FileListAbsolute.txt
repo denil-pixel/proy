@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2013\Projects\Formulario Validado\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Formulario Validado\Prueba\bin\Debug\Prueba.dll
+c:\users\user\documents\visual studio 2013\Projects\Formulario Validado\Prueba\bin\Debug\Prueba.pdb
+c:\users\user\documents\visual studio 2013\Projects\Formulario Validado\Prueba\bin\Debug\Formulario Validado.exe
+c:\users\user\documents\visual studio 2013\Projects\Formulario Validado\Prueba\bin\Debug\Formulario Validado.pdb
+c:\users\user\documents\visual studio 2013\Projects\Formulario Validado\Prueba\obj\Debug\Prueba.dll
+c:\users\user\documents\visual studio 2013\Projects\Formulario Validado\Prueba\obj\Debug\Prueba.pdb

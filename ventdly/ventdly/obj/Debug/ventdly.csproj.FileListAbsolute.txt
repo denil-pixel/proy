@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\ventdly\ventdly\bin\ventdly.dll.config
+c:\users\user\documents\visual studio 2013\Projects\ventdly\ventdly\bin\ventdly.dll
+c:\users\user\documents\visual studio 2013\Projects\ventdly\ventdly\bin\ventdly.pdb
+c:\users\user\documents\visual studio 2013\Projects\ventdly\ventdly\obj\Debug\ventdly.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\ventdly\ventdly\obj\Debug\ventdly.dll
+c:\users\user\documents\visual studio 2013\Projects\ventdly\ventdly\obj\Debug\ventdly.pdb

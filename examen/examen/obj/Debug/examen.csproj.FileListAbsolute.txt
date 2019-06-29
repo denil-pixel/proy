@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\examen\examen\bin\examen.dll.config
+c:\users\user\documents\visual studio 2013\Projects\examen\examen\bin\examen.dll
+c:\users\user\documents\visual studio 2013\Projects\examen\examen\bin\examen.pdb
+c:\users\user\documents\visual studio 2013\Projects\examen\examen\obj\Debug\examen.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\examen\examen\obj\Debug\examen.dll
+c:\users\user\documents\visual studio 2013\Projects\examen\examen\obj\Debug\examen.pdb

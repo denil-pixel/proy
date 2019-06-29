@@ -1,0 +1,2 @@
+c:\users\user\documents\visual studio 2013\Projects\lunes (8)\lunes (8)\bin\Debug\lunes (8).exe.config
+c:\users\user\documents\visual studio 2013\Projects\lunes (8)\lunes (8)\obj\Debug\lunes (8).csprojResolveAssemblyReference.cache

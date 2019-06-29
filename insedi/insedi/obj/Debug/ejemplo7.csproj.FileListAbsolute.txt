@@ -1,0 +1,18 @@
+C:\Users\LABREDES-PC08\source\repos\ejemplo7\ejemplo7\bin\Debug\ejemplo7.exe.config
+C:\Users\LABREDES-PC08\source\repos\ejemplo7\ejemplo7\bin\Debug\ejemplo7.exe
+C:\Users\LABREDES-PC08\source\repos\ejemplo7\ejemplo7\bin\Debug\ejemplo7.pdb
+C:\Users\LABREDES-PC08\source\repos\ejemplo7\ejemplo7\obj\Debug\ejemplo7.Form1.resources
+C:\Users\LABREDES-PC08\source\repos\ejemplo7\ejemplo7\obj\Debug\ejemplo7.Properties.Resources.resources
+C:\Users\LABREDES-PC08\source\repos\ejemplo7\ejemplo7\obj\Debug\ejemplo7.csproj.GenerateResource.cache
+C:\Users\LABREDES-PC08\source\repos\ejemplo7\ejemplo7\obj\Debug\ejemplo7.csproj.CoreCompileInputs.cache
+C:\Users\LABREDES-PC08\source\repos\ejemplo7\ejemplo7\obj\Debug\ejemplo7.exe
+C:\Users\LABREDES-PC08\source\repos\ejemplo7\ejemplo7\obj\Debug\ejemplo7.pdb
+C:\Users\LABREDES-PC08\source\repos\ejemplo7\ejemplo7\obj\Debug\ejemplo7.csprojAssemblyReference.cache
+C:\Users\LABREDES-PC08\source\repos\ejemplo7\ejemplo7\bin\Debug\TextBoxPico.dll
+C:\Users\LABREDES-PC08\source\repos\ejemplo7\ejemplo7\bin\Debug\TextBoxPico.pdb
+C:\Users\LABREDES-PC08\source\repos\ejemplo7\ejemplo7\obj\Debug\ejemplo7.ui.FmUser.resources
+C:\Users\LABREDES-PC08\source\repos\ejemplo7\ejemplo7\obj\Debug\ejemplo7.ui.Form2.resources
+C:\Users\LABREDES-PC08\source\repos\ejemplo7\ejemplo7\obj\Debug\ejemplo7.csproj.CopyComplete
+C:\estructura de datos\A desarrollo\mepasaron\ejemplo7\ejemplo7\bin\Debug\ejemplo7.exe.config
+C:\estructura de datos\A desarrollo\mepasaron\ejemplo7\ejemplo7\obj\Debug\ejemplo7.exe
+C:\estructura de datos\A desarrollo\mepasaron\ejemplo7\ejemplo7\obj\Debug\ejemplo7.pdb

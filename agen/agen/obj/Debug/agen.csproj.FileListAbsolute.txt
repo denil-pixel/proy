@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\agen\agen\obj\Debug\agen.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\agen\agen\obj\Debug\agen.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\agen\agen\obj\Debug\agen.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\agen\agen\bin\Debug\agen.exe.config
+c:\users\user\documents\visual studio 2013\Projects\agen\agen\bin\Debug\agen.exe
+c:\users\user\documents\visual studio 2013\Projects\agen\agen\bin\Debug\agen.pdb
+c:\users\user\documents\visual studio 2013\Projects\agen\agen\obj\Debug\agen.exe
+c:\users\user\documents\visual studio 2013\Projects\agen\agen\obj\Debug\agen.pdb
+c:\users\user\documents\visual studio 2013\Projects\agen\agen\obj\Debug\agen.Form1.resources

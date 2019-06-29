@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2013\Projects\app errores de sistema\app errores de sistema\bin\Debug\app errores de sistema.exe
+c:\users\user\documents\visual studio 2013\Projects\app errores de sistema\app errores de sistema\bin\Debug\app errores de sistema.pdb
+c:\users\user\documents\visual studio 2013\Projects\app errores de sistema\app errores de sistema\obj\Debug\app errores de sistema.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\app errores de sistema\app errores de sistema\obj\Debug\app_errores_de_sistema.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\app errores de sistema\app errores de sistema\obj\Debug\app_errores_de_sistema.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\app errores de sistema\app errores de sistema\obj\Debug\app errores de sistema.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\app errores de sistema\app errores de sistema\obj\Debug\app errores de sistema.exe
+c:\users\user\documents\visual studio 2013\Projects\app errores de sistema\app errores de sistema\obj\Debug\app errores de sistema.pdb
+c:\users\user\documents\visual studio 2013\Projects\app errores de sistema\app errores de sistema\obj\Debug\app_errores_de_sistema.Form3.resources
+c:\users\user\documents\visual studio 2013\Projects\app errores de sistema\app errores de sistema\obj\Debug\app_errores_de_sistema.Form2.resources

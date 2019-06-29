@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\Parabola\Parabola\obj\Debug\Parabola.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Parabola\Parabola\obj\Debug\Parabola.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Parabola\Parabola\obj\Debug\Parabola.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Parabola\Parabola\obj\Debug\Parabola.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Parabola\Parabola\bin\Debug\Parabola.exe
+c:\users\user\documents\visual studio 2013\Projects\Parabola\Parabola\bin\Debug\Parabola.pdb
+c:\users\user\documents\visual studio 2013\Projects\Parabola\Parabola\obj\Debug\Parabola.exe
+c:\users\user\documents\visual studio 2013\Projects\Parabola\Parabola\obj\Debug\Parabola.pdb

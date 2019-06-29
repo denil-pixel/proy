@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\Validar Formulario\Validar Formulario\bin\Debug\Validar Formulario.exe
+c:\users\user\documents\visual studio 2013\Projects\Validar Formulario\Validar Formulario\bin\Debug\Validar Formulario.pdb
+c:\users\user\documents\visual studio 2013\Projects\Validar Formulario\Validar Formulario\obj\Debug\Validar Formulario.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Validar Formulario\Validar Formulario\obj\Debug\Validar_Formulario.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Validar Formulario\Validar Formulario\obj\Debug\Validar_Formulario.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Validar Formulario\Validar Formulario\obj\Debug\Validar Formulario.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Validar Formulario\Validar Formulario\obj\Debug\Validar Formulario.exe
+c:\users\user\documents\visual studio 2013\Projects\Validar Formulario\Validar Formulario\obj\Debug\Validar Formulario.pdb

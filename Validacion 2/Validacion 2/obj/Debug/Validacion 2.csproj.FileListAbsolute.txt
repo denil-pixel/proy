@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\Validacion 2\Validacion 2\obj\Debug\Validacion 2.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Validacion 2\Validacion 2\obj\Debug\Validacion_2.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Validacion 2\Validacion 2\obj\Debug\Validacion_2.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Validacion 2\Validacion 2\obj\Debug\Validacion 2.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Validacion 2\Validacion 2\bin\Debug\Validacion 2.exe
+c:\users\user\documents\visual studio 2013\Projects\Validacion 2\Validacion 2\bin\Debug\Validacion 2.pdb
+c:\users\user\documents\visual studio 2013\Projects\Validacion 2\Validacion 2\obj\Debug\Validacion 2.exe
+c:\users\user\documents\visual studio 2013\Projects\Validacion 2\Validacion 2\obj\Debug\Validacion 2.pdb

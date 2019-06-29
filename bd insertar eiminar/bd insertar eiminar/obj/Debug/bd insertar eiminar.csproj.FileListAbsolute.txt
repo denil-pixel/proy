@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\bd insertar eiminar\bd insertar eiminar\bin\Debug\bd insertar eiminar.exe
+c:\users\user\documents\visual studio 2013\Projects\bd insertar eiminar\bd insertar eiminar\bin\Debug\bd insertar eiminar.pdb
+c:\users\user\documents\visual studio 2013\Projects\bd insertar eiminar\bd insertar eiminar\obj\Debug\bd insertar eiminar.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\bd insertar eiminar\bd insertar eiminar\obj\Debug\bd_insertar_eiminar.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\bd insertar eiminar\bd insertar eiminar\obj\Debug\bd_insertar_eiminar.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\bd insertar eiminar\bd insertar eiminar\obj\Debug\bd insertar eiminar.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\bd insertar eiminar\bd insertar eiminar\obj\Debug\bd insertar eiminar.exe
+c:\users\user\documents\visual studio 2013\Projects\bd insertar eiminar\bd insertar eiminar\obj\Debug\bd insertar eiminar.pdb

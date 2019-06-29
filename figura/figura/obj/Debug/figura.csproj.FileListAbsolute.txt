@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\figura\figura\bin\figura.dll.config
+c:\users\user\documents\visual studio 2013\Projects\figura\figura\bin\figura.dll
+c:\users\user\documents\visual studio 2013\Projects\figura\figura\bin\figura.pdb
+c:\users\user\documents\visual studio 2013\Projects\figura\figura\obj\Debug\figura.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\figura\figura\obj\Debug\figura.dll
+c:\users\user\documents\visual studio 2013\Projects\figura\figura\obj\Debug\figura.pdb

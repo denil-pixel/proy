@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2013\Projects\copiar\copiar\bin\Debug\copiar.exe
+c:\users\user\documents\visual studio 2013\Projects\copiar\copiar\bin\Debug\copiar.pdb
+c:\users\user\documents\visual studio 2013\Projects\copiar\copiar\obj\Debug\copiar.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\copiar\copiar\obj\Debug\copiar.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\copiar\copiar\obj\Debug\copiar.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\copiar\copiar\obj\Debug\copiar.exe
+c:\users\user\documents\visual studio 2013\Projects\copiar\copiar\obj\Debug\copiar.pdb

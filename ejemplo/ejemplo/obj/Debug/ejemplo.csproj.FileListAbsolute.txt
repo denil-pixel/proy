@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2013\Projects\ejemplo\ejemplo\bin\Debug\ejemplo.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ejemplo\ejemplo\obj\Debug\ejemplo.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\ejemplo\ejemplo\obj\Debug\ejemplo.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\ejemplo\ejemplo\obj\Debug\ejemplo.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\ejemplo\ejemplo\obj\Debug\ejemplo.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\ejemplo\ejemplo\bin\Debug\ejemplo.exe
+c:\users\user\documents\visual studio 2013\Projects\ejemplo\ejemplo\bin\Debug\ejemplo.pdb
+c:\users\user\documents\visual studio 2013\Projects\ejemplo\ejemplo\obj\Debug\ejemplo.exe
+c:\users\user\documents\visual studio 2013\Projects\ejemplo\ejemplo\obj\Debug\ejemplo.pdb
+c:\users\user\documents\visual studio 2013\Projects\ejemplo\ejemplo\obj\Debug\ejemplo.frmCombobox.resources
+c:\users\user\documents\visual studio 2013\Projects\ejemplo\ejemplo\obj\Debug\ejemplo.frmdetalle.resources

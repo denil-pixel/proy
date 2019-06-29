@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\Conexion Bd\Conexion Bd\obj\Debug\Conexion Bd.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Conexion Bd\Conexion Bd\obj\Debug\Conexion_Bd.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Conexion Bd\Conexion Bd\obj\Debug\Conexion Bd.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Conexion Bd\Conexion Bd\bin\Debug\Conexion Bd.exe
+c:\users\user\documents\visual studio 2013\Projects\Conexion Bd\Conexion Bd\bin\Debug\Conexion Bd.pdb
+c:\users\user\documents\visual studio 2013\Projects\Conexion Bd\Conexion Bd\obj\Debug\Conexion_Bd.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Conexion Bd\Conexion Bd\obj\Debug\Conexion Bd.exe
+c:\users\user\documents\visual studio 2013\Projects\Conexion Bd\Conexion Bd\obj\Debug\Conexion Bd.pdb

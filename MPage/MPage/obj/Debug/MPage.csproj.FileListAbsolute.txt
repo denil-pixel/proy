@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\MPage\MPage\bin\MPage.dll.config
+c:\users\user\documents\visual studio 2013\Projects\MPage\MPage\bin\MPage.dll
+c:\users\user\documents\visual studio 2013\Projects\MPage\MPage\bin\MPage.pdb
+c:\users\user\documents\visual studio 2013\Projects\MPage\MPage\obj\Debug\MPage.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\MPage\MPage\obj\Debug\MPage.dll
+c:\users\user\documents\visual studio 2013\Projects\MPage\MPage\obj\Debug\MPage.pdb

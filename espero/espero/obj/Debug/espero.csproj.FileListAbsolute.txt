@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\espero\espero\bin\espero.dll.config
+c:\users\user\documents\visual studio 2013\Projects\espero\espero\bin\espero.dll
+c:\users\user\documents\visual studio 2013\Projects\espero\espero\bin\espero.pdb
+c:\users\user\documents\visual studio 2013\Projects\espero\espero\obj\Debug\espero.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\espero\espero\obj\Debug\espero.dll
+c:\users\user\documents\visual studio 2013\Projects\espero\espero\obj\Debug\espero.pdb

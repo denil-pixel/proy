@@ -1,0 +1,5 @@
+c:\Users\User\documents\visual studio 2013\Projects\OJALA\CapaEntidades\bin\Debug\CapaEntidades.dll
+c:\Users\User\documents\visual studio 2013\Projects\OJALA\CapaEntidades\bin\Debug\CapaEntidades.pdb
+c:\Users\User\documents\visual studio 2013\Projects\OJALA\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+c:\Users\User\documents\visual studio 2013\Projects\OJALA\CapaEntidades\obj\Debug\CapaEntidades.dll
+c:\Users\User\documents\visual studio 2013\Projects\OJALA\CapaEntidades\obj\Debug\CapaEntidades.pdb

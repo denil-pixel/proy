@@ -1,0 +1,7 @@
+c:\Users\User\documents\visual studio 2013\Projects\OJALA\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+c:\Users\User\documents\visual studio 2013\Projects\OJALA\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+c:\Users\User\documents\visual studio 2013\Projects\OJALA\CapaAccesoDatos\bin\Debug\CapaEntidades.dll
+c:\Users\User\documents\visual studio 2013\Projects\OJALA\CapaAccesoDatos\bin\Debug\CapaEntidades.pdb
+c:\Users\User\documents\visual studio 2013\Projects\OJALA\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojResolveAssemblyReference.cache
+c:\Users\User\documents\visual studio 2013\Projects\OJALA\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+c:\Users\User\documents\visual studio 2013\Projects\OJALA\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb

@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\insertar\insertar\bin\Debug\insertar.exe
+c:\users\user\documents\visual studio 2013\Projects\insertar\insertar\bin\Debug\insertar.pdb
+c:\users\user\documents\visual studio 2013\Projects\insertar\insertar\obj\Debug\insertar.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\insertar\insertar\obj\Debug\insertar.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\insertar\insertar\obj\Debug\insertar.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\insertar\insertar\obj\Debug\insertar.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\insertar\insertar\obj\Debug\insertar.exe
+c:\users\user\documents\visual studio 2013\Projects\insertar\insertar\obj\Debug\insertar.pdb

@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2013\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+c:\users\user\documents\visual studio 2013\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+c:\users\user\documents\visual studio 2013\Projects\Proyecto\Proyecto\bin\Debug\C_Pre.dll
+c:\users\user\documents\visual studio 2013\Projects\Proyecto\Proyecto\bin\Debug\C_Pre.pdb
+c:\users\user\documents\visual studio 2013\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+c:\users\user\documents\visual studio 2013\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+c:\users\user\documents\visual studio 2013\Projects\Proyecto\Proyecto\bin\Debug\C_Neg.dll
+c:\users\user\documents\visual studio 2013\Projects\Proyecto\Proyecto\bin\Debug\C_Dat.dll
+c:\users\user\documents\visual studio 2013\Projects\Proyecto\Proyecto\bin\Debug\C_Neg.pdb
+c:\users\user\documents\visual studio 2013\Projects\Proyecto\Proyecto\bin\Debug\C_Dat.pdb

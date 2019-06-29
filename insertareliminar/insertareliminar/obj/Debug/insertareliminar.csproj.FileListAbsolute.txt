@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\insertareliminar\insertareliminar\bin\Debug\insertareliminar.exe
+c:\users\user\documents\visual studio 2013\Projects\insertareliminar\insertareliminar\bin\Debug\insertareliminar.pdb
+c:\users\user\documents\visual studio 2013\Projects\insertareliminar\insertareliminar\obj\Debug\insertareliminar.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\insertareliminar\insertareliminar\obj\Debug\insertareliminar.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\insertareliminar\insertareliminar\obj\Debug\insertareliminar.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\insertareliminar\insertareliminar\obj\Debug\insertareliminar.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\insertareliminar\insertareliminar\obj\Debug\insertareliminar.exe
+c:\users\user\documents\visual studio 2013\Projects\insertareliminar\insertareliminar\obj\Debug\insertareliminar.pdb

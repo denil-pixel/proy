@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\pais\pais\obj\Debug\pais.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\pais\pais\bin\pais.dll.config
+c:\users\user\documents\visual studio 2013\Projects\pais\pais\bin\pais.dll
+c:\users\user\documents\visual studio 2013\Projects\pais\pais\bin\pais.pdb
+c:\users\user\documents\visual studio 2013\Projects\pais\pais\obj\Debug\pais.dll
+c:\users\user\documents\visual studio 2013\Projects\pais\pais\obj\Debug\pais.pdb

@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\Iinsertar ,editar,borrar\Iinsertar ,editar,borrar\bin\Debug\Iinsertar ,editar,borrar.exe
+c:\users\user\documents\visual studio 2013\Projects\Iinsertar ,editar,borrar\Iinsertar ,editar,borrar\bin\Debug\Iinsertar ,editar,borrar.pdb
+c:\users\user\documents\visual studio 2013\Projects\Iinsertar ,editar,borrar\Iinsertar ,editar,borrar\obj\Debug\Iinsertar ,editar,borrar.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Iinsertar ,editar,borrar\Iinsertar ,editar,borrar\obj\Debug\Iinsertar__editar_borrar.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Iinsertar ,editar,borrar\Iinsertar ,editar,borrar\obj\Debug\Iinsertar__editar_borrar.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Iinsertar ,editar,borrar\Iinsertar ,editar,borrar\obj\Debug\Iinsertar ,editar,borrar.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Iinsertar ,editar,borrar\Iinsertar ,editar,borrar\obj\Debug\Iinsertar ,editar,borrar.exe
+c:\users\user\documents\visual studio 2013\Projects\Iinsertar ,editar,borrar\Iinsertar ,editar,borrar\obj\Debug\Iinsertar ,editar,borrar.pdb

@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\Formulario Validado\Formulario Validado\obj\Debug\Formulario Validado.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Formulario Validado\Formulario Validado\obj\Debug\Formulario_Validado.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Formulario Validado\Formulario Validado\obj\Debug\Formulario_Validado.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Formulario Validado\Formulario Validado\obj\Debug\Formulario Validado.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Formulario Validado\Formulario Validado\bin\Debug\Formulario Validado.exe
+c:\users\user\documents\visual studio 2013\Projects\Formulario Validado\Formulario Validado\bin\Debug\Formulario Validado.pdb
+c:\users\user\documents\visual studio 2013\Projects\Formulario Validado\Formulario Validado\obj\Debug\Formulario Validado.exe
+c:\users\user\documents\visual studio 2013\Projects\Formulario Validado\Formulario Validado\obj\Debug\Formulario Validado.pdb

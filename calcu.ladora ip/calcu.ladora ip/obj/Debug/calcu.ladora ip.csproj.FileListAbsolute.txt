@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\calcu.ladora ip\calcu.ladora ip\bin\Debug\calcu.ladora ip.exe
+c:\users\user\documents\visual studio 2013\Projects\calcu.ladora ip\calcu.ladora ip\bin\Debug\calcu.ladora ip.pdb
+c:\users\user\documents\visual studio 2013\Projects\calcu.ladora ip\calcu.ladora ip\obj\Debug\calcu.ladora ip.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\calcu.ladora ip\calcu.ladora ip\obj\Debug\calcu.ladora_ip.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\calcu.ladora ip\calcu.ladora ip\obj\Debug\calcu.ladora_ip.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\calcu.ladora ip\calcu.ladora ip\obj\Debug\calcu.ladora ip.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\calcu.ladora ip\calcu.ladora ip\obj\Debug\calcu.ladora ip.exe
+c:\users\user\documents\visual studio 2013\Projects\calcu.ladora ip\calcu.ladora ip\obj\Debug\calcu.ladora ip.pdb

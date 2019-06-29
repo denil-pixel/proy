@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2013\Projects\car\car\obj\Debug\car.exe
+c:\users\user\documents\visual studio 2013\Projects\car\car\obj\Debug\car.pdb
+c:\users\user\documents\visual studio 2013\Projects\car\car\bin\Debug\car.exe
+c:\users\user\documents\visual studio 2013\Projects\car\car\bin\Debug\car.pdb
+c:\users\user\documents\visual studio 2013\Projects\car\car\obj\Debug\car.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\car\car\obj\Debug\car.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\car\car\obj\Debug\car.csproj.GenerateResource.Cache

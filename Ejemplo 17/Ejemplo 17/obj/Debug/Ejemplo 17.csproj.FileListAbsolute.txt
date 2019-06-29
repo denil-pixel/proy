@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\Ejemplo 17\Ejemplo 17\bin\Debug\Ejemplo 17.exe
+c:\users\user\documents\visual studio 2013\Projects\Ejemplo 17\Ejemplo 17\bin\Debug\Ejemplo 17.pdb
+c:\users\user\documents\visual studio 2013\Projects\Ejemplo 17\Ejemplo 17\obj\Debug\Ejemplo 17.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Ejemplo 17\Ejemplo 17\obj\Debug\Ejemplo_17.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Ejemplo 17\Ejemplo 17\obj\Debug\Ejemplo_17.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Ejemplo 17\Ejemplo 17\obj\Debug\Ejemplo 17.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Ejemplo 17\Ejemplo 17\obj\Debug\Ejemplo 17.exe
+c:\users\user\documents\visual studio 2013\Projects\Ejemplo 17\Ejemplo 17\obj\Debug\Ejemplo 17.pdb

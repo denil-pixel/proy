@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\insertar,editar,borrar,listar\insertar,editar,borrar,listar\bin\Debug\insertar,editar,borrar,listar.exe.config
+c:\users\user\documents\visual studio 2013\Projects\insertar,editar,borrar,listar\insertar,editar,borrar,listar\bin\Debug\insertar,editar,borrar,listar.exe
+c:\users\user\documents\visual studio 2013\Projects\insertar,editar,borrar,listar\insertar,editar,borrar,listar\bin\Debug\insertar,editar,borrar,listar.pdb
+c:\users\user\documents\visual studio 2013\Projects\insertar,editar,borrar,listar\insertar,editar,borrar,listar\obj\Debug\insertar_editar_borrar_listar.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\insertar,editar,borrar,listar\insertar,editar,borrar,listar\obj\Debug\insertar_editar_borrar_listar.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\insertar,editar,borrar,listar\insertar,editar,borrar,listar\obj\Debug\insertareditarborrarlistar.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\insertar,editar,borrar,listar\insertar,editar,borrar,listar\obj\Debug\insertar,editar,borrar,listar.exe
+c:\users\user\documents\visual studio 2013\Projects\insertar,editar,borrar,listar\insertar,editar,borrar,listar\obj\Debug\insertar,editar,borrar,listar.pdb
+c:\users\user\documents\visual studio 2013\Projects\insertar,editar,borrar,listar\insertar,editar,borrar,listar\obj\Debug\insertareditarborrarlistar.csprojResolveAssemblyReference.cache

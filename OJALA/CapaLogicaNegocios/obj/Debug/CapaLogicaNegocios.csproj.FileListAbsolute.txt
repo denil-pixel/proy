@@ -1,0 +1,9 @@
+c:\Users\User\documents\visual studio 2013\Projects\OJALA\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+c:\Users\User\documents\visual studio 2013\Projects\OJALA\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+c:\Users\User\documents\visual studio 2013\Projects\OJALA\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.dll
+c:\Users\User\documents\visual studio 2013\Projects\OJALA\CapaLogicaNegocios\bin\Debug\CapaEntidades.dll
+c:\Users\User\documents\visual studio 2013\Projects\OJALA\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.pdb
+c:\Users\User\documents\visual studio 2013\Projects\OJALA\CapaLogicaNegocios\bin\Debug\CapaEntidades.pdb
+c:\Users\User\documents\visual studio 2013\Projects\OJALA\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csprojResolveAssemblyReference.cache
+c:\Users\User\documents\visual studio 2013\Projects\OJALA\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+c:\Users\User\documents\visual studio 2013\Projects\OJALA\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb

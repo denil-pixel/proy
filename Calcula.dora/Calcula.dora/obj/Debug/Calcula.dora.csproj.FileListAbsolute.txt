@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\Calcula.dora\Calcula.dora\obj\Debug\Calcula.dora.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Calcula.dora\Calcula.dora\obj\Debug\Calculadora.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Calcula.dora\Calcula.dora\obj\Debug\Calcula.dora.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Calcula.dora\Calcula.dora\obj\Debug\Calcula.dora.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Calcula.dora\Calcula.dora\bin\Debug\Calcula.dora.exe
+c:\users\user\documents\visual studio 2013\Projects\Calcula.dora\Calcula.dora\bin\Debug\Calcula.dora.pdb
+c:\users\user\documents\visual studio 2013\Projects\Calcula.dora\Calcula.dora\obj\Debug\Calcula.dora.exe
+c:\users\user\documents\visual studio 2013\Projects\Calcula.dora\Calcula.dora\obj\Debug\Calcula.dora.pdb

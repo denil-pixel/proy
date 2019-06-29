@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2013\Projects\Autosugerencia Contr\Autosugerencia Contr\obj\Debug\Autosugerencia Contr.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Autosugerencia Contr\Autosugerencia Contr\obj\Debug\Autosugerencia_Contr.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Autosugerencia Contr\Autosugerencia Contr\obj\Debug\Autosugerencia_Contr.UserControl1.resources
+c:\users\user\documents\visual studio 2013\Projects\Autosugerencia Contr\Autosugerencia Contr\obj\Debug\Autosugerencia Contr.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Autosugerencia Contr\Autosugerencia Contr\bin\Debug\Autosugerencia Contr.exe
+c:\users\user\documents\visual studio 2013\Projects\Autosugerencia Contr\Autosugerencia Contr\bin\Debug\Autosugerencia Contr.pdb
+c:\users\user\documents\visual studio 2013\Projects\Autosugerencia Contr\Autosugerencia Contr\obj\Debug\Autosugerencia Contr.exe
+c:\users\user\documents\visual studio 2013\Projects\Autosugerencia Contr\Autosugerencia Contr\obj\Debug\Autosugerencia Contr.pdb
+c:\users\user\documents\visual studio 2013\Projects\Autosugerencia Contr\Autosugerencia Contr\obj\Debug\Autosugerencia_Contr.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Autosugerencia Contr\Autosugerencia Contr\bin\Debug\TextBoxRecarga.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Autosugerencia Contr\Autosugerencia Contr\bin\Debug\TextBoxRecarga.pdb

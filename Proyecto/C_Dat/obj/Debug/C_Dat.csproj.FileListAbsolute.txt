@@ -1,0 +1,6 @@
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Dat\obj\Debug\C_Dat.csprojResolveAssemblyReference.cache
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Dat\bin\Debug\C_Dat.dll
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Dat\bin\Debug\C_Dat.pdb
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Dat\obj\Debug\C_Dat.dll
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Dat\obj\Debug\C_Dat.pdb
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Dat\bin\Debug\C_Dat.dll.config

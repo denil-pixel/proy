@@ -1,0 +1,7 @@
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Neg\bin\Debug\C_Neg.dll
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Neg\bin\Debug\C_Neg.pdb
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Neg\bin\Debug\C_Dat.dll
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Neg\bin\Debug\C_Dat.pdb
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Neg\obj\Debug\C_Neg.csprojResolveAssemblyReference.cache
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Neg\obj\Debug\C_Neg.dll
+c:\Users\User\documents\visual studio 2013\Projects\Proyecto\C_Neg\obj\Debug\C_Neg.pdb

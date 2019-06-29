@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\superficie\superficie\bin\Debug\superficie.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\superficie\superficie\obj\Debug\superficie.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2013\Projects\superficie\superficie\bin\Debug\superficie.exe
+C:\Users\User\documents\visual studio 2013\Projects\superficie\superficie\bin\Debug\superficie.pdb
+C:\Users\User\documents\visual studio 2013\Projects\superficie\superficie\obj\Debug\superficie.exe
+C:\Users\User\documents\visual studio 2013\Projects\superficie\superficie\obj\Debug\superficie.pdb

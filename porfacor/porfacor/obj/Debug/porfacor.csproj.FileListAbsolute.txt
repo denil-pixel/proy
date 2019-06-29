@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\porfacor\porfacor\bin\porfacor.dll.config
+c:\users\user\documents\visual studio 2013\Projects\porfacor\porfacor\bin\porfacor.dll
+c:\users\user\documents\visual studio 2013\Projects\porfacor\porfacor\bin\porfacor.pdb
+c:\users\user\documents\visual studio 2013\Projects\porfacor\porfacor\obj\Debug\porfacor.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\porfacor\porfacor\obj\Debug\porfacor.dll
+c:\users\user\documents\visual studio 2013\Projects\porfacor\porfacor\obj\Debug\porfacor.pdb

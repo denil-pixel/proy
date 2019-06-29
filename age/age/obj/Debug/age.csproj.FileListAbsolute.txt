@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\age\age\bin\Debug\age.exe
+c:\users\user\documents\visual studio 2013\Projects\age\age\bin\Debug\age.pdb
+c:\users\user\documents\visual studio 2013\Projects\age\age\obj\Debug\age.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\age\age\obj\Debug\age.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\age\age\obj\Debug\age.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\age\age\obj\Debug\age.exe
+c:\users\user\documents\visual studio 2013\Projects\age\age\obj\Debug\age.pdb
+c:\users\user\documents\visual studio 2013\Projects\age\age\obj\Debug\age.Form2.resources
+c:\users\user\documents\visual studio 2013\Projects\age\age\obj\Debug\age.csprojResolveAssemblyReference.cache

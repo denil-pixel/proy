@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\calcula\calcula\bin\Debug\calcula.exe.config
+c:\users\user\documents\visual studio 2013\Projects\calcula\calcula\obj\Debug\calcula.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\calcula\calcula\bin\Debug\calcula.exe
+c:\users\user\documents\visual studio 2013\Projects\calcula\calcula\bin\Debug\calcula.pdb
+c:\users\user\documents\visual studio 2013\Projects\calcula\calcula\obj\Debug\calcula.exe
+c:\users\user\documents\visual studio 2013\Projects\calcula\calcula\obj\Debug\calcula.pdb

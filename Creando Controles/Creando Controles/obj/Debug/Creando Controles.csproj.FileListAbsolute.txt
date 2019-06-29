@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\Creando Controles\Creando Controles\obj\Debug\Creando_Controles.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Creando Controles\Creando Controles\obj\Debug\Creando_Controles.TexBboxValida.resources
+c:\users\user\documents\visual studio 2013\Projects\Creando Controles\Creando Controles\obj\Debug\Creando Controles.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Creando Controles\Creando Controles\obj\Debug\Creando Controles.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Creando Controles\Creando Controles\bin\Debug\Creando Controles.exe
+c:\users\user\documents\visual studio 2013\Projects\Creando Controles\Creando Controles\bin\Debug\Creando Controles.pdb
+c:\users\user\documents\visual studio 2013\Projects\Creando Controles\Creando Controles\obj\Debug\Creando Controles.exe
+c:\users\user\documents\visual studio 2013\Projects\Creando Controles\Creando Controles\obj\Debug\Creando Controles.pdb
+c:\users\user\documents\visual studio 2013\Projects\Creando Controles\Creando Controles\obj\Debug\Creando_Controles.Form1.resources
